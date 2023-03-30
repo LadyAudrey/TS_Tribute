@@ -398,8 +398,10 @@ midnightsImg.onclick = function () {
 thumbsUpTaylor.onclick = function () {
   albumInfo.replaceChildren();
   const albumInfoH3 = albumInfo.appendChild(document.createElement("h3"));
-  albumInfoH3.style.backgroundImage =
-    "url('/home/evergreen/TS_Tribute/assets/unicornCat.gif')";
+  albumInfoH3.setAttribute(
+    "style",
+    "background-image: url('/home/evergreen/TS_Tribute/assets/unicornCat.gif')"
+  );
 };
 
 // // when debutOG img is clicked, an h3 element is created
