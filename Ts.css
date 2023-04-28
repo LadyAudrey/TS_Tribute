@@ -97,7 +97,7 @@ footer {
 
 .taylor:hover {
     transform: scale(1.2);
-    border: var(--purple-Dark) 5px double;
+    border: var(--purple-LightDarks) 25px solids;
     opacity: 100%;
 }
 
@@ -120,7 +120,4 @@ footer {
     max-height: 35vw;
     max-width: 25vw;
     padding: 5vw 38vw;
-} */
-/* #debutOG {
-    background-image: url("/Debut.png");
-} */
+} 
