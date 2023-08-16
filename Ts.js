@@ -83,7 +83,7 @@ const speakNow = {
     "If this was a Movie",
     "Superman",
   ],
-  released: ["October 25, 2010", unknown],
+  released: ["October 25, 2010", "July 17, 2023! It's coming!!!"],
   quotes: [
     "Your guard is up and I know why/Because the last time you saw me is still burned in the back of your mind/You gave me roses and I left them there to die",
     "You, with your switching sides and your wildfire lies and your humiliation/You have pointed out my flaws again, as if I don't already see them",
